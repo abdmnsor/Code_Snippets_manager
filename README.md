@@ -61,7 +61,7 @@ A powerful and intuitive **WPF desktop application** for managing, organizing, a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Code_Snippets_manager.git
+   git clone https://github.com/abdmnsor/Code_Snippets_manager.git
    cd Code_Snippets_manager
    ```
 
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Support
 
 If you have any questions or run into issues, please:
-- Open an [issue](https://github.com/yourusername/Code_Snippets_manager/issues)
+- Open an [issue](https://github.com/abdmnsor/Code_Snippets_manager/issues)
 - Check existing issues for solutions
 - Contribute to discussions
 
